@@ -1,4 +1,4 @@
 print("Hola mundo")
-print("*")
-print("**")
+print("Soy David")
+print("^-^")
 print("***")
